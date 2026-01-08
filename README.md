@@ -19,7 +19,6 @@ This project is designed to understand the fundamentals of login page creation u
 It focuses on form structure, styling, and basic JavaScript logic without using any backend or external libraries.
 
 ## 🎯 Objective
-To implement a functional login interface and practice JavaScript-based form validation.
-
+To design and implement a responsive and visually appealing login page using HTML and CSS, focusing on layout structure, styling, and user interface design principles.
 ---
 This project is intended for learning and practice purposes.
