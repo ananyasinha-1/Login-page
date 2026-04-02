@@ -1,6 +1,6 @@
  # 🔐 Login Page
-
-A simple and responsive **Login Page** built using **HTML, CSS, and JavaScript**.  
+ 
+ A simple and responsive **Login Page** built using **HTML, CSS, and JavaScript**.  
 This project demonstrates basic form handling, input validation, and user interface design.
 
 ## 🚀 Features
